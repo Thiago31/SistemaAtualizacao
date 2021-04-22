@@ -14,5 +14,17 @@
       <nome>CompararRepositorios.pdb</nome>
       <link>https://github.com/Thiago31/SistemaAtualizacao/raw/main/Release/CompararRepositorios.pdb</link>
     </arquivo>
+    <arquivo modo="remover">
+      <nome>credencial.json</nome>
+      <link></link>
+    </arquivo>
+    <arquivo modo="remover">
+      <nome>Newtonsoft.Json.dll</nome>
+      <link></link>
+    </arquivo>
+    <arquivo modo="remover">
+      <nome>Newtonsoft.Json.xml</nome>
+      <link></link>
+    </arquivo>
   </arquivos>
 </atualizador>
