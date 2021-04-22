@@ -26,5 +26,9 @@
       <nome>Newtonsoft.Json.xml</nome>
       <link></link>
     </arquivo>
+    <arquivo modo="adicionar">
+      <nome>AGROSYNC_ARMAZEM.exe</nome>
+      <link>https://bitbucket.org/agrosyncaex/agrosynccoffeelts/src/master/agrosynccoffee/AgroSync_Coocapec/bin/Debug/AGROSYNC_ARMAZEM.exe</link>
+    </arquivo>
   </arquivos>
 </atualizador>
