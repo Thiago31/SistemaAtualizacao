@@ -2,17 +2,17 @@
 <atualizador>
   <versao>1.0.0.0</versao>
   <arquivos>
-    <arquivo>
-      <nome>arquivo1.exe</nome>
-      <link>http://www.caminho.com/arquivo1</link>
+    <arquivo modo="adicionar">
+      <nome>CompararRepositorios.exe</nome>
+      <link>https://github.com/Thiago31/SistemaAtualizacao/raw/main/Release/CompararRepositorios.exe</link>
     </arquivo>
-    <arquivo>
-      <nome>arquivo2.exe</nome>
-      <link>http://www.caminho.com/arquivo2</link>
+    <arquivo modo="adicionar">
+      <nome>CompararRepositorios.exe.config</nome>
+      <link>https://raw.githubusercontent.com/Thiago31/SistemaAtualizacao/main/Release/CompararRepositorios.exe.config</link>
     </arquivo>
-    <arquivo>
-      <nome>arquivo3.exe</nome>
-      <link>http://www.caminho.com/arquivo3</link>
+    <arquivo modo="adicionar">
+      <nome>CompararRepositorios.pdb</nome>
+      <link>https://github.com/Thiago31/SistemaAtualizacao/raw/main/Release/CompararRepositorios.pdb</link>
     </arquivo>
   </arquivos>
-</atualizador>
+</atualizador
